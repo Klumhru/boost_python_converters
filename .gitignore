@@ -30,3 +30,6 @@
 build/
 dist/
 venv.*/
+
+# Python stuff
+*.py[co]
